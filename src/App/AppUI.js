@@ -12,8 +12,7 @@ function AppUI({
     setSearchValue,
     searchedTodos,
     completeTodo,
-    deleteTodo,
-
+    deleteTodo
 }){
     return(<React.Fragment>
         <TodoCounter 
