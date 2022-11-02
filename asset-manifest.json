@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lista-de-Tareas-con-React/static/css/main.133b8df9.chunk.css",
+    "main.js": "/lista-de-Tareas-con-React/static/js/main.fcd3b006.chunk.js",
+    "main.js.map": "/lista-de-Tareas-con-React/static/js/main.fcd3b006.chunk.js.map",
+    "runtime-main.js": "/lista-de-Tareas-con-React/static/js/runtime-main.8dafdbf7.js",
+    "runtime-main.js.map": "/lista-de-Tareas-con-React/static/js/runtime-main.8dafdbf7.js.map",
+    "static/js/2.20231e12.chunk.js": "/lista-de-Tareas-con-React/static/js/2.20231e12.chunk.js",
+    "static/js/2.20231e12.chunk.js.map": "/lista-de-Tareas-con-React/static/js/2.20231e12.chunk.js.map",
+    "index.html": "/lista-de-Tareas-con-React/index.html",
+    "static/css/main.133b8df9.chunk.css.map": "/lista-de-Tareas-con-React/static/css/main.133b8df9.chunk.css.map",
+    "static/js/2.20231e12.chunk.js.LICENSE.txt": "/lista-de-Tareas-con-React/static/js/2.20231e12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dafdbf7.js",
+    "static/js/2.20231e12.chunk.js",
+    "static/css/main.133b8df9.chunk.css",
+    "static/js/main.fcd3b006.chunk.js"
+  ]
+}
